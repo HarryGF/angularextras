@@ -1,3 +1,3 @@
 export const environment = {
-    urlApiComics: "https://apiempleadoscoreoauth.azurewebsites.net/"
+    urlApiComics: "https://apipostfiles.azurewebsites.net/"
 };
